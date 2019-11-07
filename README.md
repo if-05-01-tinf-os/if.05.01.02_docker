@@ -11,4 +11,5 @@
 3. Push the image on Docker Hub
 3. Delete the image from your computer and test whether it seamlessly downloads if you try to start it again
 3. Add a text file to this repository given the link to your image
+3. Add the Docker file you used to create this image to this repository (if not already in).
 3. Commit and push this repo
